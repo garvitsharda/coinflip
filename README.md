@@ -52,5 +52,4 @@ To run your own ethereum coin flip instance:
 
 * Test new maximum bet variable.
 * If a user send more than the maximum bet, play the max bet and return the rest to the user.
-* Try this random number generator function that doesn't need an oracle to do their job: https://gist.github.com/alexvandesande/259b4ffb581493ec0a1c
 * Implement Oraclize
